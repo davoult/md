@@ -11,7 +11,7 @@
 
 ## Environnement
 
-Chaque participant a accès à son environnement, il est composant d'un cluster Kubernetes, voici les paramètres:
+Chaque participant a accès à son environnemvvvent, il est composant d'un cluster Kubernetes, voici les paramètres:
 
 | Clé        | Valeur                 |
 | ---------- | ---------------------- |
